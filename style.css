@@ -1,0 +1,97 @@
+
+
+body, html{
+   height: 100%;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hero-image {
+    width:100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text align: center;
+    background-image: url(photo/logo.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no repeat;
+    background attachment: fixed;
+    border: 5px solid black;
+    margin-bottom: 40px;
+    border-radius: 25px;
+}
+
+img {
+    max-width: 100%;
+}
+
+h1 {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    font-weight bold;
+    font-size: xx-large;
+    margin-bottom: 40px
+}
+
+h2 {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    font-size: larger;
+    margin-bottom: 40px
+
+}
+
+h3 {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    font-size: larger;
+    margin-bottom: 40px
+}
+
+h4 {
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    font-size: larger;
+    margin-bottom: 40px
+}
+
+.item {
+    font-weight: bold;
+    background-color: lightblue;
+    border: 5px solid black;
+    margin-bottom: 40px;
+    border-radius: 25px;
+}
+
+.classes {
+    background-color: moccasin;
+}
+
+.more {
+    border-radius: 25px;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+p {
+    text-align: center;
+    font-weight: bold
+}
+
+iframe {
+    border: 5px solid black;
+    margin-bottom: 40px;
+    border-radius: 25px;
+}
